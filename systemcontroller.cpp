@@ -48,7 +48,7 @@ void CSystemController::initialize(QThread *pthread)
     }
 
 
-    qDebug() << "Starting up KeyCodeBox Alpha v1.10k";
+    qDebug() << "Starting up KeyCodeBox Alpha v1.11k";
 
     initializeSecurityConnections();
     initializeLockController();
